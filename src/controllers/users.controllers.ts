@@ -1,7 +1,6 @@
 import { Request, Response } from 'express';
 import validator from 'validator';
 
-
 import { User } from '../entities/User';
 
 
